@@ -35,6 +35,7 @@ public class CollegeStudent extends Student {
                 "name: " + name +
                 ", age: " + age +
                 ", gender: " + gender +
+                ", gpa: " + gpa +
                 ", year: " + year +
                 ", idNumber: " + idNumber +
                 ", major: '" + major + '\'' +

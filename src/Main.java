@@ -35,6 +35,7 @@ public class Main {
             System.out.println(teachers[i].toString());
             ++i;
         }
+        System.out.println();
         i = 0;
         while (i != 4) {
             System.out.println(collegeStudents[i].toString());
